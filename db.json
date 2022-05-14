@@ -1,0 +1,90 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are great",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "hi there",
+      "id": 3
+    },
+    {
+      "content": "hihih",
+      "id": 4
+    },
+    {
+      "content": "jkl",
+      "id": 5
+    },
+    {
+      "content": "jkl",
+      "id": 6
+    },
+    {
+      "content": "fsa",
+      "id": 7
+    },
+    {
+      "content": "fdsafsd",
+      "id": 8
+    },
+    {
+      "content": "11111",
+      "id": 9
+    },
+    {
+      "content": "gfd",
+      "id": 10
+    },
+    {
+      "content": "444",
+      "id": 11
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "who",
+      "number": "123456",
+      "id": 3
+    },
+    {
+      "name": "julian",
+      "number": "casa",
+      "id": 4
+    },
+    {
+      "name": "don worry",
+      "number": "123456",
+      "id": 5
+    },
+    {
+      "name": "don worry",
+      "number": "dafsf",
+      "id": 6
+    },
+    {
+      "name": "don",
+      "number": "dafsf",
+      "id": 7
+    },
+    {
+      "name": "gds",
+      "number": "ss",
+      "id": 8
+    }
+  ]
+}
